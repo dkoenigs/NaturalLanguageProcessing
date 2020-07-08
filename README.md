@@ -22,5 +22,5 @@ _Auto Summarizing Text Using a Rule-Based Approach_
 
 <img src="screenshotSummarizeText.png" width="550">
 
-Machine Learning Sentiment Analysis:
-* 
+#### Machine Learning Sentiment Analysis:
+* Step
