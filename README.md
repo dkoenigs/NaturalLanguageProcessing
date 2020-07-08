@@ -7,6 +7,7 @@ _Auto Summarizing Text Using a Rule-Based Approach_
 #2: _Sentiment Analysis using Machine Learning_
 
 
+
 #### Auto Summarising Text:
 
 * Retrieve input using a PyQt GUI (or optionally through a web scraping method using BeautifulSoup)
